@@ -1,0 +1,4 @@
+
+1- no vemos el archivo tp2_1_2 porque el archivo esta en la rama Opcion_2 
+y como ya no nos encontramos el la rama Opcion_2 no nos aparece dicho archivo.
+2- las lineas de colores que reprecentan las diferentes ramas ahora se unido en una sola linea.
